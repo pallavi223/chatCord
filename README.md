@@ -6,8 +6,8 @@
 # How To Run
 
 * Install Node.js(nodejs.org).
-* Clone, Fork or download the repositry from the terminal.
+* Clone, Fork or download the repository from the terminal.
 * Open in VS Code or Atom.
 * Run Command npm install.
-* Run Command npm run dev
+* Run Command npm run dev.
 * Open in your browser and go to (https://localhost:3000)
