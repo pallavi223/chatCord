@@ -10,4 +10,4 @@
 * Open in VS Code or Atom.
 * Run Command npm install.
 * Run Command npm run dev.
-* Open in your browser and go to (https://localhost:3000)
+* Open in your browser and go to (https://localhost:3000)..
