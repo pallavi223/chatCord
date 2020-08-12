@@ -6,7 +6,7 @@
 # How To Run
 
 * Install Node.js(nodejs.org).
-* Clone, Fork or donwload the repositry from the terminal.
+* Clone, Fork or download the repositry from the terminal.
 * Open in VS Code or Atom.
 * Run Command npm install.
 * Run Command npm run dev
